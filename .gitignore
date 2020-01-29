@@ -4,3 +4,4 @@
 /yarn*
 /package-lock.json
 !.gitignore
+!.travis.yml
