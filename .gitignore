@@ -3,5 +3,5 @@
 /node_modules
 /yarn*
 /package-lock.json
-!.gitignore
+*.gitignore
 !.travis.yml
