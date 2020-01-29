@@ -1,6 +1,10 @@
 
 # MyProject
 
+[![Build Status](https://api.travis-ci.org/DanJohnHarty/dsti-generate.svg)](https://travis-ci.org/#!/DanJohnHarty/dsti-generate)
+
+https://travis-ci.com/DanielJohnHarty/dsti-generate.svg?branch=master
+
 Generate datasets with random data.
 
 Main functionnalites:
